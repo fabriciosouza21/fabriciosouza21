@@ -1,28 +1,34 @@
-## Ola! Eu sou o Fabricio de Souza  
+# Fabrício de Souza Miranda
 
- <div>
-  <a href="https://github.com/fabriciosouza21/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciosouza21&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-   <img align="center" alt="java" height="30" width="40"src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-   <img align="center" alt="Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
-   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+Desenvolvedor Full Stack Pleno · Backend Java/Spring · Angular/React/Vue
 
+---
 
-</div>
-  
-  ##
- 
-<div> 
+## Sobre
 
-  <a href = "mailto:fabriciosouza21"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabricio-souza-771b321bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+Quase 5 anos construindo sistemas em produção em 7 domínios de negócio (gamificação, agronegócio, fintech, logística, saúde, barter e educação). Atuação full-stack end-to-end com foco em **Clean Architecture**, design de código e **mensageria**. Bacharel em Ciência da Computação pela UFPA (2024). Aberto a oportunidades.
 
+- 📍 Ananindeua, PA · remoto
+- 💼 Atualmente: Backend Pleno na [iUsecase](https://www.iusecase.com.br/)
+- 🎓 Ciência da Computação · UFPA
+
+## Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,vue,ts,postgres,docker,aws,rabbitmq" alt="Stack" />
+
+## Projetos
+
+Repositórios de estudos organizados por ecossistema:
+
+- [**java-spring**](https://github.com/fabriciosouza21/java-spring) — Spring Boot, Data JPA, Security, MongoDB, microsserviços
+- [**jornada-dev-eficiente**](https://github.com/fabriciosouza21/jornada-dev-eficiente) — Anotações de DDD, segurança e arquitetura
+- [**estudos-python**](https://github.com/fabriciosouza21/estudos-python) — Django, FastAPI, Docker
+- [**estudos-go-rust**](https://github.com/fabriciosouza21/estudos-go-rust) — Go e Rust
+- [**estudos-frontend**](https://github.com/fabriciosouza21/estudos-frontend) — Vue, Angular, JavaScript, Nuxt
+- [**template-curriculo-ats**](https://github.com/fabriciosouza21/template-curriculo-ats) — Pipeline data-driven de currículo ATS (YAML → DOCX/PDF)
+
+## Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fabriciosouza21777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-souza-771b321bb/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fabriciosouza21)
