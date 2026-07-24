@@ -9,7 +9,7 @@ Desenvolvedor Full Stack Pleno · Backend Java/Spring · Angular/React/Vue
 Quase 5 anos construindo sistemas em produção em 7 domínios de negócio (gamificação, agronegócio, fintech, logística, saúde, barter e educação). Atuação full-stack end-to-end com foco em **Clean Architecture**, design de código e **mensageria**. Bacharel em Ciência da Computação pela UFPA (2024). Aberto a oportunidades.
 
 - 📍 Ananindeua, PA · remoto
-- 💼 Atualmente: Backend Pleno na [iUsecase](https://www.iusecase.com.br/)
+- 💼 Atualmente: Backend Pleno na [iUsecase](https://www.usecase.com.br/)
 - 🎓 Ciência da Computação · UFPA
 
 ## Stack
